@@ -2,16 +2,16 @@
 title: Tutoriais do [!DNL Journey Optimizer B2B Edition]
 description: Assista aos tutoriais em vídeo em  [!DNL Journey Optimizer B2B Edition]. Melhore sua compreensão de como orquestrar jornadas de conta e grupo de compras e muito mais.
 exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
-source-git-commit: 95661e83f42cc4d94630fa86de50125940ea2e3d
+source-git-commit: 51ab8e8e3ec650516128e76c287cfce6b6ab11b5
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 2%
+source-wordcount: '180'
+ht-degree: 17%
 
 ---
 
 # Tutoriais do [!DNL Journey Optimizer B2B Edition]
 
-Saiba como aproveitar ao máximo o [!DNL Journey Optimizer B2B Edition]. Orquestrar jornadas de conta e grupo de compras usando IA gerativa integrada e automação líder de setor para maximizar a demanda por ofertas específicas.
+Saiba como aproveitar ao máximo do [!DNL Journey Optimizer B2B Edition]. Orquestre jornadas de conta e grupo de compras usando a IA generativa integrada e automação líder de setor para maximizar a demanda por ofertas específicas.
 
 >[!NOTE]
 >
@@ -19,14 +19,20 @@ Saiba como aproveitar ao máximo o [!DNL Journey Optimizer B2B Edition]. Orquest
 
 ## Novidades {#whats-new}
 
-* [Visão geral dos grupos de compras](/help/buying-groups/buying-groups-overview.md)
-  _Saiba tudo sobre grupos de compras e como utilizá-los._
+* [Apresentando Jornadas da Conta](/help/account-journeys/introducing-account-journeys.md)
+  _Saiba tudo sobre Jornadas de conta e como usá-las para engajar seu público-alvo._
 
-* [Criar um grupo de compras](/help/buying-groups/create-a-buying-group.md)
-  _Saiba como usar um público-alvo de conta, um modelo de função e um interesse de solução para criar grupos de compra._
+* [Criar uma Jornada de conta](/help/account-journeys/create-an-account-journey.md)
+  _Saiba como usar o público-alvo da conta, o nó de ação, o nó de escuta e o nó de caminhos divididos para criar Jornadas de Conta._
 
-* [Interesse na solução](/help/buying-groups/solution-interest.md)
-  _Saiba mais sobre os interesses de soluções de grupos de compras e como configurá-los/usá-los ao criar um grupo de compras._
+* [Nó de ação](/help/account-journeys/action-node.md)
+  _Saiba mais sobre os nós de ação e como configurá-los ao criar uma Jornada de Conta._
+
+* [Nó de escuta](/help/account-journeys/listen-node.md)
+  _Saiba mais sobre os nós de escuta e como configurá-los ao criar uma Jornada de Conta._
+
+* [Jornada de Conta Dividida](/help/account-journeys/split-account-journey.md)
+  _Saiba mais sobre nós de caminho de divisão/mesclagem e como configurá-los ao criar uma Jornada de conta._
 
 ## Vídeos mais populares {#most-popular-videos}
 
