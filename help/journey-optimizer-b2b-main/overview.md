@@ -2,10 +2,10 @@
 title: Tutoriais do [!DNL Journey Optimizer B2B Edition]
 description: Assista aos tutoriais em vídeo em  [!DNL Journey Optimizer B2B Edition]. Melhore sua compreensão de como orquestrar jornadas de conta e grupo de compras e muito mais.
 exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
-source-git-commit: 688c658299a0e1e7a74e1a714d2732ffed3a7c45
+source-git-commit: ba3b04d8bedc8df0ddaacb902a65d0144bfab2d4
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 17%
+source-wordcount: '153'
+ht-degree: 20%
 
 ---
 
@@ -15,20 +15,14 @@ Saiba como aproveitar ao máximo do [!DNL Journey Optimizer B2B Edition]. Orques
 
 ## Novidades {#whats-new}
 
-* [Apresentando Jornadas da Conta](/help/account-journeys/introducing-account-journeys.md)
-  _Saiba tudo sobre Jornadas de conta e como usá-las para engajar seu público-alvo._
+* [Estágios de grupo de compras](/help/buying-groups/buying-group-stages.md)
+  _Saiba como criar vários estágios do ciclo de vida do grupo de compras em um modelo de estágio único e especificar as regras de transição._
 
-* [Criar uma Jornada de conta](/help/account-journeys/create-an-account-journey.md)
-  _Saiba como usar o público-alvo da conta, o nó de ação, o nó de escuta e o nó de caminhos divididos para criar Jornadas de Conta._
+* [Ouvir eventos do AEP](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
+  _Defina e use qualquer evento de experiência na jornada da sua conta._
 
-* [Nó de ação](/help/account-journeys/journey-nodes/action-node.md)
-  _Saiba mais sobre os nós de ação e como configurá-los ao criar uma Jornada de Conta._
-
-* [Nó de escuta](/help/account-journeys/journey-nodes/listen-node.md)
-  _Saiba mais sobre os nós de escuta e como configurá-los ao criar uma Jornada de Conta._
-
-* [Jornada de Conta Dividida](/help/account-journeys/journey-nodes/split-account-journey.md)
-  _Saiba mais sobre nós de caminho de divisão/mesclagem e como configurá-los ao criar uma Jornada de conta._
+* [Orquestração de mídia paga](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
+  _Saiba como usar uma jornada para mover pessoas para um público externo, que você pode enviar para qualquer destino de mídia paga compatível no catálogo de destino do AEP._
 
 ## Vídeos mais populares {#most-popular-videos}
 
