@@ -22,4 +22,4 @@ Os estágios de grupo de compras representam as diferentes fases pelas quais um 
 
 Com esse recurso, você pode criar vários estágios do ciclo de vida do grupo de compras em um modelo de estágio único e especificar as regras de transição. Ao configurar essas regras, você terá controle total sobre como um grupo de compras pode se mover de um estágio para outro. As transições de preparo podem ser automatizadas em uma Jornada, combinando essas funcionalidades em um fluxo poderoso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448634/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448699/?learn=on&enablevpops&captions=por_br)

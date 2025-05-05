@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba como usar o público-alvo da conta, o nó de ação, o nó de escuta e o nó de caminhos divididos para criar Jornadas de conta.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443204/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443224/?learn=on&enablevpops&captions=por_br)

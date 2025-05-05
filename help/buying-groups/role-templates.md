@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba mais sobre modelos de função de grupo de compras e como configurá-los/usá-los ao criar um grupo de compras.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453306/?learn=on&captions=por_br)

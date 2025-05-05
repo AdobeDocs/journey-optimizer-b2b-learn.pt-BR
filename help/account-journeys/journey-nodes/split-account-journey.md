@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba mais sobre nós de caminho de divisão/mesclagem e como configurá-los ao criar uma Jornada de conta.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443261/?learn=on&enablevpops&captions=por_br)

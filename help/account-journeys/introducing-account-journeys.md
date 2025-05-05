@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba tudo sobre Jornadas de conta e como usá-las para engajar seu público-alvo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443202/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443212/?learn=on&enablevpops&captions=por_br)

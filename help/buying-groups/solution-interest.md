@@ -20,4 +20,4 @@ ht-degree: 5%
 
 Saiba mais sobre os interesses de soluções de grupos de compras e como configurá-los/usá-los ao criar um grupo de compras.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433080/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450118/?learn=on&captions=por_br)

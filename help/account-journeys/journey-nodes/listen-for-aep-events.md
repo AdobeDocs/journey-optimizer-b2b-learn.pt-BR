@@ -24,4 +24,4 @@ A escuta de eventos do AEP no AJO B2B permite definir e usar qualquer evento de 
 
 * Usar eventos do AEP na jornada de conta
 
->[!VIDEO](https://video.tv.adobe.com/v/3448637/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448688/?learn=on&enablevpops&captions=por_br)
