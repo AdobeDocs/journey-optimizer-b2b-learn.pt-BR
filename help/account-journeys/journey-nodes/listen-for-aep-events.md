@@ -24,4 +24,4 @@ A escuta de Eventos do AEP no [!DNL Journey Optimizer B2B Edition] permite defin
 
 * Usar eventos do AEP na jornada de conta
 
->[!VIDEO](https://video.tv.adobe.com/v/3448637/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448688/?learn=on&enablevpops&captions=por_br)

@@ -30,4 +30,4 @@ Como solução para esse desafio, o [!DNL Journey Optimizer B2B Edition] oferece
 
 Neste vídeo, demonstraremos o uso de uma jornada para mover as pessoas para um público externo, que você pode enviar para qualquer destino de mídia paga compatível no catálogo de destino do AEP.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448649/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448677/?learn=on&enablevpops&captions=por_br)
