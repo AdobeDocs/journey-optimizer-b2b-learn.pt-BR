@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Saiba como usar o Account Qualification Agent no Journey Optimizer B2B edition.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475827/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475844/?captions=por_br&learn=on&enablevpops)
