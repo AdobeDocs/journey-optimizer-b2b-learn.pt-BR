@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba tudo sobre grupos de compra e como utilizá-los.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452936/?captions=por_br&learn=on)
