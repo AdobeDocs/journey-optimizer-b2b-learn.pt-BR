@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba mais sobre os nós de escuta e como configurá-los ao criar uma Jornada de conta.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443219/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443239/?captions=por_br&learn=on&enablevpops)

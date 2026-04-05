@@ -20,4 +20,4 @@ ht-degree: 12%
 
 Saiba mais sobre nós de ação e como configurá-los ao criar uma Jornada de conta.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443207/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443250/?captions=por_br&learn=on&enablevpops)

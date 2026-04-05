@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba como usar um público-alvo de conta, um modelo de função e um interesse de solução para criar grupos de compra.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433081/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451766/?captions=por_br&learn=on)
