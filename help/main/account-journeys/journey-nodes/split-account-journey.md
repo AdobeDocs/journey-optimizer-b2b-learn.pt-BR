@@ -34,4 +34,4 @@ Saiba mais sobre como dividir e mesclar nós de caminho e como configurá-los ao
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
 
-Para obter mais informações, consulte _[Dividir e mesclar caminhos](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ no guia do usuário.
+Para obter mais informações, consulte _[Dividir e mesclar caminhos](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ no guia do usuário.

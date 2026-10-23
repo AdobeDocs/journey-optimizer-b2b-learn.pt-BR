@@ -39,4 +39,4 @@ Saiba mais sobre modelos de função de grupo de compras e como configurá-los/u
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
 
-Para obter mais informações, consulte [Comprar modelos de função de grupo](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) no guia do usuário.
+Para obter mais informações, consulte [Comprar modelos de função de grupo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) no guia do usuário.
