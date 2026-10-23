@@ -37,6 +37,6 @@ ht-degree: 3%
 
 Saiba mais sobre modelos de função de grupo de compras e como configurá-los/usá-los ao criar um grupo de compras.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453306/?captions=por_br&learn=on)
 
 Para obter mais informações, consulte [Comprar modelos de função de grupo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) no guia do usuário.
