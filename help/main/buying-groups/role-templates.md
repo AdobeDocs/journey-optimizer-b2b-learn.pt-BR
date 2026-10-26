@@ -53,4 +53,4 @@ Saiba como:
 * Use as configurações de pontuação de integridade para definir o número de membros necessários para cada função.
 * Publicar um modelo para que seu status seja alterado para Em tempo real e esteja disponível para os interesses da solução.
 
-Para obter mais informações, consulte [Comprar modelos de função de grupo](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) no guia do usuário.
+Para obter mais informações, consulte [Comprar modelos de função de grupo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) no guia do usuário.

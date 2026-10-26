@@ -49,4 +49,4 @@ Saiba como:
 * Dividido por pessoas que usam atributos de pessoa, atributos de relacionamento conta-pessoa, associação a grupo de compras, objetos personalizados e histórico de eventos com janelas de retrospectiva, frequência e filtragem de inatividade.
 * Entenda como o nó automático Fechar caminhos divididos retorna pessoas à jornada da conta.
 
-Para obter mais informações, consulte _[Dividir e mesclar caminhos](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ no guia do usuário.
+Para obter mais informações, consulte _[Dividir e mesclar caminhos](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ no guia do usuário.
