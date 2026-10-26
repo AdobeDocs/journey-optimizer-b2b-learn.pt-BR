@@ -35,7 +35,7 @@ Saiba como usar os nós de caminho de divisão e mesclagem no Adobe [!DNL Journe
 
 Este tutorial é para profissionais de marketing e designers de jornadas que usam o [!DNL Journey Optimizer B2B Edition] para personalizar jornadas de marketing baseadas em conta para diferentes segmentos e membros de grupos de compras.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443261/?captions=por_br&learn=on&enablevpops)
 
 Saiba como:
 

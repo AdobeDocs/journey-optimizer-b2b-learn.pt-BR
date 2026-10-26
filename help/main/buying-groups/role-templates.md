@@ -40,7 +40,7 @@ Saiba como criar modelos de função no [!DNL Adobe Journey Optimizer B2B Editio
 
 Este tutorial é para profissionais de marketing e administradores que usam o [!DNL Journey Optimizer B2B Edition] para marketing baseado em conta e que desejam direcionar os participantes certos em cada conta.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453306/?captions=por_br&learn=on)
 
 Saiba como:
 
