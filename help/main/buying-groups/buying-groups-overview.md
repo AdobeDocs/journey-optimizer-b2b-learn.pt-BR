@@ -1,5 +1,5 @@
 ---
-title: Visão geral dos grupos de compra no Adobe [!DNL Journey Optimizer B2B Edition]
+title: Comprando grupos em [!DNL Journey Optimizer B2B Edition]
 description: Saiba como criar, gerenciar e avaliar grupos de compras no Adobe [!DNL Journey Optimizer B2B Edition], desde modelos de função e interesses de solução até insights de prontidão e função.
 keywords: grupos de compras, Adobe [!DNL Journey Optimizer B2B Edition], marketing baseado em conta, grupo de compras B2B, modelos de função, interesse na solução, público-alvo de conta, estágios de grupo de compras, integridade do grupo de compras, insights da função, automação de marketing B2B
 feature: Buying Groups
@@ -24,18 +24,18 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 85f11f822fd6915c58beec677aef15621c8cc0e6
+source-git-commit: 0378440b788599f4f2996507c407b6d031edc594
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '248'
 ht-degree: 1%
 ---
-# Visão geral dos grupos de compra no Adobe [!DNL Journey Optimizer B2B Edition]
+# Comprando grupos em [!DNL Journey Optimizer B2B Edition]
 
 Saiba como os grupos de compras organizam as pessoas para decisões de compra B2B no [!DNL Adobe Journey Optimizer B2B Edition]. Este vídeo aborda os componentes necessários, como preparar um trabalho de criação de grupo de compra e como avaliar a preparação.
 
 Este tutorial é para profissionais de marketing e administradores que usam o [!DNL Journey Optimizer B2B Edition] para marketing baseado em conta e que desejam direcionar os participantes certos e qualificar as contas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452936/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
 
 Saiba como:
 
@@ -48,4 +48,4 @@ Saiba como:
 * Revise e atualize os membros do grupo de compra. As atualizações manuais têm prioridade sobre as ações de jornada e os trabalhos do sistema.
 * Use os insights da função para comparar a aquisição e o envolvimento entre funções, filtrados por intervalo de datas.
 
-Para obter mais informações, consulte _[Grupos de compras](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ no guia do usuário.
+Para obter mais informações, consulte _[Grupos de compras](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ no guia do usuário.

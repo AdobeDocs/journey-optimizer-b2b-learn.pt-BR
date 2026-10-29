@@ -1,5 +1,5 @@
 ---
-title: Dividir e mesclar caminhos no Adobe [!DNL Journey Optimizer B2B Edition]
+title: Dividir e mesclar caminhos
 description: Saiba como dividir e mesclar caminhos no Adobe [!DNL Journey Optimizer B2B Edition] para rotear contas ou pessoas por condições, definir a prioridade do caminho e lidar com públicos sem correspondência.
 keywords: caminhos divididos, caminhos de mesclagem, Adobe [!DNL Journey Optimizer B2B Edition], jornada de conta, nós de jornada, marketing baseado em conta, orquestração de jornada B2B, preparação do grupo de compra, condições de caminho, divisão de pessoas, filtragem do histórico de eventos, segmentação de jornada
 feature: Account Journeys
@@ -24,18 +24,18 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 375a9f528b4df8d65f8ec3d5646381ab615c4305
+source-git-commit: 0378440b788599f4f2996507c407b6d031edc594
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 0%
+source-wordcount: '312'
+ht-degree: 3%
 ---
-# Dividir e mesclar caminhos no Adobe [!DNL Journey Optimizer B2B Edition]
+# Dividir e mesclar caminhos
 
 Saiba como usar os nós de caminho de divisão e mesclagem no Adobe [!DNL Journey Optimizer B2B Edition] para rotear contas ou pessoas por meio de uma jornada de conta de acordo com as condições. Este vídeo descreve as divisões de conta e pessoas, a prioridade do caminho, os caminhos padrão e a mesclagem.
 
 Este tutorial é para profissionais de marketing e designers de jornadas que usam o [!DNL Journey Optimizer B2B Edition] para personalizar jornadas de marketing baseadas em conta para diferentes segmentos e membros de grupos de compras.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443261/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
 
 Saiba como:
 
@@ -49,4 +49,4 @@ Saiba como:
 * Dividido por pessoas que usam atributos de pessoa, atributos de relacionamento conta-pessoa, associação a grupo de compras, objetos personalizados e histórico de eventos com janelas de retrospectiva, frequência e filtragem de inatividade.
 * Entenda como o nó automático Fechar caminhos divididos retorna pessoas à jornada da conta.
 
-Para obter mais informações, consulte _[Dividir e mesclar caminhos](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ no guia do usuário.
+Para obter mais informações, consulte _[Dividir e mesclar caminhos](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ no guia do usuário.
