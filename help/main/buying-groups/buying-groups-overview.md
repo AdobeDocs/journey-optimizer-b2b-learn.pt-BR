@@ -35,7 +35,7 @@ Saiba como os grupos de compras organizam as pessoas para decisões de compra B2
 
 Este tutorial é para profissionais de marketing e administradores que usam o [!DNL Journey Optimizer B2B Edition] para marketing baseado em conta e que desejam direcionar os participantes certos e qualificar as contas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452936/?captions=por_br&learn=on&enablevpops)
 
 Saiba como:
 
