@@ -18,7 +18,7 @@ ht-degree: 3%
 
 Use os Eventos de Experiência do [!DNL Adobe Experience Platform] para avançar as jornadas da conta em [!DNL Adobe Journey Optimizer B2B Edition] quando ocorrer uma atividade correspondente. Saiba como os administradores configuram tipos de eventos e campos e como os profissionais de marketing os usam em um nó [!UICONTROL Ouvir um evento].
 
->[!VIDEO](https://video.tv.adobe.com/v/3448637/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448688/?captions=por_br&quality=12&learn=on)
 
 ## Fundamentos para eventos de experiência
 

@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Use os nós de ação em [!DNL Adobe Journey Optimizer B2B Edition] para definir ações para contas ou pessoas em uma jornada. Compare as ações da conta e as ações de pessoas e saiba quais ações são compatíveis com cada tipo de jornada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443207/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443250/?captions=por_br&quality=12&learn=on)
 
 ## Fundamentos do nó de ação
 

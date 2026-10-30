@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Use o nó [!UICONTROL Escutar um evento] em [!DNL Adobe Journey Optimizer B2B Edition] para avançar uma jornada quando ocorrer um evento. Compare eventos de conta e de pessoa, defina critérios correspondentes e configure tempos limite para controlar a duração da espera da jornada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443219/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443239/?captions=por_br&quality=12&learn=on)
 
 ## Ouvir os fundamentos do nó
 
