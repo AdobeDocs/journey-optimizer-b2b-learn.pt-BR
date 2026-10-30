@@ -35,5 +35,5 @@ Um ouvinte responde à atividade de streaming correspondente quando a conta atin
 
 Para obter instruções e requisitos de configuração, consulte estas páginas no guia do usuário:
 
-* [Selecionar eventos de experiência e campos](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events){target="_blank"}
-* [Acompanhar um evento](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}
+* [Selecionar eventos de experiência e campos](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events){target="_blank"}
+* [Acompanhar um evento](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}

@@ -30,4 +30,4 @@ O vídeo aborda estes tópicos:
 
 ## Documentação relacionada
 
-Para obter informações sobre eventos, etapas de configuração e opções de tempo limite com suporte, consulte [Ouvir um evento no guia do usuário](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}.
+Para obter informações sobre eventos, etapas de configuração e opções de tempo limite com suporte, consulte [Ouvir um evento no guia do usuário](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}.
