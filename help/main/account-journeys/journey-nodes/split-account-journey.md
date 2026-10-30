@@ -1,5 +1,5 @@
 ---
-title: Dividir e mesclar caminhos no Adobe [!DNL Journey Optimizer B2B Edition]
+title: Dividir e mesclar caminhos
 description: Saiba como dividir e mesclar caminhos no Adobe [!DNL Journey Optimizer B2B Edition] para rotear contas ou pessoas por condições, definir a prioridade do caminho e lidar com públicos sem correspondência.
 keywords: caminhos divididos, caminhos de mesclagem, Adobe [!DNL Journey Optimizer B2B Edition], jornada de conta, nós de jornada, marketing baseado em conta, orquestração de jornada B2B, preparação do grupo de compra, condições de caminho, divisão de pessoas, filtragem do histórico de eventos, segmentação de jornada
 feature: Account Journeys
@@ -24,12 +24,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 375a9f528b4df8d65f8ec3d5646381ab615c4305
+source-git-commit: 0378440b788599f4f2996507c407b6d031edc594
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 0%
+source-wordcount: '312'
+ht-degree: 3%
 ---
-# Dividir e mesclar caminhos no Adobe [!DNL Journey Optimizer B2B Edition]
+# Dividir e mesclar caminhos
 
 Saiba como usar os nós de caminho de divisão e mesclagem no Adobe [!DNL Journey Optimizer B2B Edition] para rotear contas ou pessoas por meio de uma jornada de conta de acordo com as condições. Este vídeo descreve as divisões de conta e pessoas, a prioridade do caminho, os caminhos padrão e a mesclagem.
 
